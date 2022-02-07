@@ -19,7 +19,7 @@ export default {
   },
   props: {
     to: { type: String },
-    href: { type: String }
+    href: { type: String },
   }
 }
 </script>
